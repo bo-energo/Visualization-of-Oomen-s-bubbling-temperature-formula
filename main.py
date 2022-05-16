@@ -5,6 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 mpl.use('Qt5Agg')  # Для вывода графика в окне в PyCharm
 
+#
 # ---------------------------------------------------------
 
 
